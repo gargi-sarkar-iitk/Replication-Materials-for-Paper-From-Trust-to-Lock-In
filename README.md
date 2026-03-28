@@ -267,14 +267,6 @@ If you use this code or dataset in your research, please cite:
 
 ---
 
-## 👥 Authors
-
-- **Sargi Sarkar** — Indian Institute of Technology Kanpur
-- **Arush Sachdeva** — Indian Institute of Technology Kanpur
-- **Sandeep Kumar Shukla** — Indian Institute of Technology Kanpur
-
----
-
 ## 📬 Contact
 
 For questions about the paper, dataset access, or code, please open a GitHub issue or contact the authors through their institutional pages.
