@@ -9,7 +9,7 @@
 
 ## 📄 Paper
 
-> **Sargi Sarkar, Arush Sachdeva, and Sandeep Kumar Shukla.** 2026. *From Trust to Lock-In: Human-Centered AI for Understanding Investment Fraud Narratives in Indian Digital Communities.* In *Proceedings of the 1st Security and Privacy for Asian Internet Communities Workshop (SPAIC), co-located with AsiaCCS 2026 (SPAIC '26)*. ACM, New York, NY, USA, 11 pages.
+> **Gargi Sarkar, Arush Sachdeva, and Sandeep Kumar Shukla.** 2026. *From Trust to Lock-In: Human-Centered AI for Understanding Investment Fraud Narratives in Indian Digital Communities.* In *Proceedings of the 1st Security and Privacy for Asian Internet Communities Workshop (SPAIC), co-located with AsiaCCS 2026 (SPAIC '26)*. ACM, New York, NY, USA, 11 pages.
 
 ---
 
