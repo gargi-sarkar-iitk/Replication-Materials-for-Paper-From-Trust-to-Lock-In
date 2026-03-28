@@ -35,7 +35,7 @@ The five scam journey stages modeled are:
 
 ```
 .
-├── From_Trust_to_Lock_In.ipynb       # Main experimental notebook (Google Colab)
+├── Code.ipynb       # Main experimental notebook (Google Colab)
 ├── README.md                         # This file
 ├── requirements.txt                  # Python dependencies
 └── Figures
